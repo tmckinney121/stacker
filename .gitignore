@@ -1,0 +1,4 @@
+artifacts/
+src/stacker/stacker.csproj.user
+src/stacker/bin/
+src/stacker/obj/
